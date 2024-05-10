@@ -6,6 +6,9 @@ Python-скрипт с помощью, которого можно создав�
 
 Если не хотите углубляться, а лишь получить результат, то просто скачайте исполняемый файл в релизах.
 
+То-до лист:
+Тут пусто...
+
 ENG:
 
 Python script that can be used to create images. It uses KANDINSKY and the Fusion Brain API. 
@@ -13,3 +16,6 @@ Python script that can be used to create images. It uses KANDINSKY and the Fusio
 To use your API-KEY and SECRET-KEY, download the repository, go to https://fusionbrain.ai, log in, go to the API tab and paste the API-KEY and SECRET-KEY into the python script. 
 
 If you don't want to go deeper and just get the result, just download the executable in the release.
+
+To-do list:
+It's empty...
