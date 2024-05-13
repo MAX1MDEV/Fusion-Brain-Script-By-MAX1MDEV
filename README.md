@@ -7,7 +7,7 @@ Python-скрипт с помощью, которого можно создав�
 Если не хотите углубляться, а лишь получить результат, то просто скачайте исполняемый файл в релизах.
 
 То-до лист:
-Тут пусто...
+Скоро добавлю новые ии...
 
 ENG:
 
@@ -18,4 +18,4 @@ To use your API-KEY and SECRET-KEY, download the repository, go to https://fusio
 If you don't want to go deeper and just get the result, just download the executable in the release.
 
 To-do list:
-It's empty...
+New ai soon...
